@@ -1,8 +1,15 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+   name: lab2
+
+---
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: react-deploy
-  namespace: default
+  namespace: lab2
   labels:
     app: react
 spec:
@@ -16,8 +23,8 @@ spec:
         app: react
     spec:
       containers:
-      - name: frontend
-        image: "ifilyaninitmo/itdt-contained-frontend:master"
+      - name: front
+        image: ifilyaninitmo/itdt-contained-frontend:master
         env:
         - name: REACT_APP_USERNAME
           value: "Borya"
@@ -32,7 +39,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: react-service
-  namespace: default
+  namespace: lab2
   labels:
     app: react
 spec:
@@ -40,7 +47,7 @@ spec:
     app: react
   ports:
   - protocol: TCP
-    port: 8201
+    port: 8200
     targetPort: 3000
   type: NodePort
 
