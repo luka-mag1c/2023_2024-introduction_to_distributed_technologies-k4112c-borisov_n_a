@@ -27,3 +27,5 @@ Date of finished: 26.10.2023
 
 # Просматриваем логи контейнеров
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/9117b990-bb83-431e-a0dd-b4884d59300b)
+
+# Схема
