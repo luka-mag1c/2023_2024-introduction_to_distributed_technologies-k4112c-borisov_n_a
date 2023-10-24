@@ -6,4 +6,4 @@ Group: K4112C
 Author: Borisov Nikita Alexandrovich
 Lab: Lab1
 Date of create: 06.10.2023
-Date of finished: 24.10.2023
+Date of finished: 26.10.2023
