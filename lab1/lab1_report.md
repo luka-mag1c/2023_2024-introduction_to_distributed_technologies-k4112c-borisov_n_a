@@ -16,7 +16,7 @@ Date of create: 06.10.2023
 
 Date of finished: 26.10.2023
 
-# Установил Docker и Minikube
+# Устанавливаем Docker и Minikube
 
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/ad1e7b29-3d5f-43f5-8642-15b0b48ef263)
 
