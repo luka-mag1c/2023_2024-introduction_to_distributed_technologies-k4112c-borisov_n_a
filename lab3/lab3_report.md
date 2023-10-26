@@ -30,7 +30,8 @@ openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout tls.key -out tls.crt
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/08eef0e0-82a1-44b0-ad02-12856ef197e4)
 
 # Создаем объекты
-![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/7e354835-45da-448f-b63e-71d113ed1c02)
+![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/1a2e345f-12e1-401d-abc8-73307bc3861c)
+
 
 # Открываем веб-страницу по адресу https://kvass.com/
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/a29ca10c-0d8c-4bbe-80fc-79329bec4a30)
