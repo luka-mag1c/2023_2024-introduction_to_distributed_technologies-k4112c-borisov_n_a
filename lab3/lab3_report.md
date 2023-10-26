@@ -40,3 +40,4 @@ openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout tls.key -out tls.crt
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/a182addf-b95f-4ae4-bc6d-1aed53fd6deb)
 
 # Схема
+![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/93584d2e-82db-4cb3-86bc-7391e85236f0)
