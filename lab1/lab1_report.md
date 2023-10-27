@@ -46,4 +46,5 @@ Date of finished: 26.10.2023
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/06094933-02b0-46a0-a80c-94d336702f46)
 
 # Схема
-![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/2556ce87-e9b3-4590-b1ec-2bc2b15d541b)
+![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/0b4a836f-babf-403c-87bf-4ba7cd32da34)
+
