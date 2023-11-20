@@ -28,7 +28,7 @@ Date of finished: 23.11.2023
 # Применил манифест для создания IPPool для виртуальных стоек
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/307cd4b7-7d1f-456f-9131-05107412f191)
 
-# Рзвернул приложение 
+# Развернул приложение 
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/349638e2-d3ff-4854-8dbe-d92e24799b4a)
 
 # Пробросил порт и открыл страницу в браузере
