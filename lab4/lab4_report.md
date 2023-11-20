@@ -16,7 +16,28 @@ Date of create: 18.10.2023
 
 Date of finished: 23.11.2023
 
-# Создаем самоподписанный сертификат
+# пупу
+![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/6658cf91-dacd-41bd-a942-2af2fbf8c88c)
+
+# пупу
+![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/c00282ea-bab9-4d5d-86d0-862b967d8cfa)
+
+# пупу
+![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/87eac717-5e0a-4a1e-bdd1-38118d64164d)
+
+# пупу
+![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/307cd4b7-7d1f-456f-9131-05107412f191)
+
+# пупу
+![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/349638e2-d3ff-4854-8dbe-d92e24799b4a)
+
+# пупу
+![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/2692ac0a-13fa-4849-bd49-ebaa8aab1acc)
+
+![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/6b415d7e-bf34-4fec-bcb2-fafda6810732)
+
+# пупу
+![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/f9d12cd4-8426-4558-8ba1-509e63b7e7b6)
 
 ```sh
 openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout tls.key -out tls.crt
