@@ -28,15 +28,15 @@ Date of finished: 23.11.2023
 # Применил манифест для создания IPPool для виртуальных стоек
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/307cd4b7-7d1f-456f-9131-05107412f191)
 
-# пупу
+# Рзвернул приложение 
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/349638e2-d3ff-4854-8dbe-d92e24799b4a)
 
-# пупу
+# Пробросил порт и открыл страницу в браузере
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/2692ac0a-13fa-4849-bd49-ebaa8aab1acc)
 
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/6b415d7e-bf34-4fec-bcb2-fafda6810732)
 
-# пупу
+#   Прпинговал вторую ноду
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/f9d12cd4-8426-4558-8ba1-509e63b7e7b6)
 
 ```sh
