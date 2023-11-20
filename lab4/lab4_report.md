@@ -16,16 +16,16 @@ Date of create: 18.10.2023
 
 Date of finished: 23.11.2023
 
-# пупу
+# Развернул 2 ноды с плагином Calico
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/6658cf91-dacd-41bd-a942-2af2fbf8c88c)
 
-# пупу
+# Удалил дефолтный IPPool 
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/c00282ea-bab9-4d5d-86d0-862b967d8cfa)
 
-# пупу
+# Пометил ноды
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/87eac717-5e0a-4a1e-bdd1-38118d64164d)
 
-# пупу
+# Применил манифест для создания IPPool для виртуальных стоек
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/307cd4b7-7d1f-456f-9131-05107412f191)
 
 # пупу
