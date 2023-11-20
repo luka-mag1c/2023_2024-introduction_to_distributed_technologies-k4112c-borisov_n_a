@@ -36,7 +36,7 @@ Date of finished: 23.11.2023
 
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/6b415d7e-bf34-4fec-bcb2-fafda6810732)
 
-#   Прпинговал вторую ноду
+#   Пропинговал вторую ноду
 ![image](https://github.com/luka-mag1c/2023_2024-introduction_to_distributed_technologies-k4112c-borisov_n_a/assets/55001395/f9d12cd4-8426-4558-8ba1-509e63b7e7b6)
 
 ```sh
